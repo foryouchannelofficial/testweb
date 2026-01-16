@@ -1,0 +1,8 @@
+{
+  "name": "tv2-proxy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
